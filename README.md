@@ -9,15 +9,14 @@ Features
 
 + Sticky multi header on scroll
 + On Click Navigate to the appropriate content
-+ created entirely with jQuery
-+ Supports multiple sets of tabs on same page
++ created entirely with jQuery 
 + Cross browser compatibility (IE9+, Chrome, Firefox, Safari and Opera)
 + Multi device support (Web, Tablets & Mobile)  
 
 Demo
 ====
 
-http://webthemez.com/demo/sticky-multi-header-scroll/index.html
+https://webthemez.com/demo/sticky-multi-header-scroll/index.html
 
 
 How to use
