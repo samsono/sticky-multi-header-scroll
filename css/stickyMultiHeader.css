@@ -1,0 +1,62 @@
+body{
+	    background: #184263; 
+		font-family: sans-serif;
+        font-size: 14px;
+	}
+	.stickyWrapper{
+		position: relative;
+		float:left; 
+	}
+	.stickyMainContainer{ 
+	  overflow-y:scroll; 
+	  float:left; 
+	  margin-top:0px;
+	  background:#fff;  
+	  height:650px;
+	  width:500px;
+	} 
+	.stickyFix{  
+        position: absolute;
+		margin:0; 
+		background:#ccc; 
+	}
+	.stickyHeader{
+		background: #d7d7d7;
+		width: 99%;
+		padding: 0 0;
+		float: left;
+		border: 1px solid #fff;
+		height: 48px;
+	}
+	 
+	.stickyHedBtm{
+		background:red;
+		padding:0;
+		float:left;
+		width:99%;
+	}
+ 
+	.stickyNavLink{
+		float: right;
+		padding: 8px 15px;
+		background: #929292;
+		margin: 8px 9px 0 0;
+		color: #fff;
+		border-radius: 2px;
+	}
+	.stickyHeader h2{
+		display:inline-block;
+		padding:0;
+		margin:0 0 0 10px;
+		line-height:48px;
+		color:#000;
+		font-size:16px;
+	}
+	.stickyTabContainer {
+		float:left; 
+		width: 96%;
+		padding:15px 2%;
+		font-size:14px;
+		line-height:18px;
+		color:#707070
+	}
