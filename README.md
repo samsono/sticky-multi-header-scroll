@@ -1,7 +1,7 @@
 Sticky Multi Header Scroll
 ====================
 
-Sticky multi header scroll - is a lightweight jQuery plugin which sticks the header to the top of the container on scroll, supports multi devices like: web, tablets, Mobile (IPad &amp; IPhone) and also comes with cross browser compatibility. 
+Sticky Multi Header Scroll is a lightweight jQuery plugin which makes multiple section headers stackable and sticky on the top of the webpage or component when scrolling down. It also allows the user to smoothly scroll to the corresponding content when clicking on the header navigation.
 
 
 Features
@@ -9,7 +9,7 @@ Features
 
 + Sticky multi header on scroll
 + On Click Navigate to the appropriate content
-+ created entirely with jQuery 
++ Created entirely with jQuery 
 + Cross browser compatibility (IE9+, Chrome, Firefox, Safari and Opera)
 + Multi device support (Web, Tablets & Mobile)  
 
